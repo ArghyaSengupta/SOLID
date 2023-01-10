@@ -3,7 +3,7 @@ package com.s;
 public class Invoice {
 
 	 Book book;
-	int quantity;
+	 int quantity;
 	 double discountRate;
 	 double taxRate;
 	 double total;
