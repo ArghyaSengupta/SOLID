@@ -1,5 +1,6 @@
 package com.l;
 
+// Liskov substitution principle
 class Rectangle {
 	 int width, height;
 

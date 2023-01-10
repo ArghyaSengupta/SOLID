@@ -1,6 +1,6 @@
 package com.i;
 
-public class FreeParking implements ParkingLot {
+public class FeeParking implements ParkingLot {
 
 	@Override
 	public void parkCar() {
